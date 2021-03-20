@@ -1,6 +1,6 @@
                                    
  <h1 align="center">👋 Hi, I’m Ahmet Yıldırım</h1>
-<h3 align="center">I am Computer Engineer and currently developing applications for Swift.</h3>
+<h3 align="center">I am Computer Engineer and currently developing applications for iOS.</h3>
 
                
    - 🌱 I’m currently learning **Swift**
