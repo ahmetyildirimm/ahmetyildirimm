@@ -13,7 +13,8 @@
   - ⚡ Fun fact **Filter Coffee** with milk
                 
 <p align="left"><p align="center"> 
- <img width="467" alt="Swift" align="center" src="https://user-images.githubusercontent.com/39477363/111865051-c0937400-8975-11eb-9909-00c1a349800e.png"> 
+ <img width="461" alt="swift" src="https://user-images.githubusercontent.com/39477363/111867131-23d7d300-8983-11eb-9e92-4af3133e0795.png">
+
                                                                                                                                 
 
 
