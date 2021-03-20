@@ -8,7 +8,7 @@
    - 📫 How to reach me **ahmetyildirim836@gmail.com**
                 
   - On Google play is also available in a game I developed with Unity:
-      https://play.google.com/store/apps/details?id=com.benamadstudios.bubblesort
+  - https://play.google.com/store/apps/details?id=com.benamadstudios.bubblesort
    
   - ⚡ Fun fact **Filter Coffee** with milk
                 
