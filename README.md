@@ -14,6 +14,5 @@
                 
                 ⚡ Fun fact Filter Coffee
                 
-                ![edit resim](https://github.com/ahmetyildirimm/ahmetyildirimm/blob/main/Swift.png)
-
+              
                         
