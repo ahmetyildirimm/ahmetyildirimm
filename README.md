@@ -9,8 +9,6 @@
                 
   -  📲 On Google play is also available in a game I developed with Unity:
   - 🧩 https://play.google.com/store/apps/details?id=com.benamadstudios.bubblesort
-  
-  - 🖋 My codepen account : https://codepen.io/Yildirim2234
    
   - ⚡ Fun fact **Filter Coffee** with milk
                 
